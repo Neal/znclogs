@@ -8,6 +8,10 @@ The code is old and a bit hacky. Use it on your own risk and feel free to submit
 
 Update `config.php`.
 
+* `LOG_FILE_LOCATION`: absolute path to the logs dir.
+* `BASE_URL_PATH`: url path after the domain
+* `USER`: ZNC user.
+
 ## Nginx rewrite rules
 
 ```nginx
